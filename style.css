@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: pink;
+  background: red;
 }
 .heading
 {
@@ -17,4 +17,12 @@ body
 .name_of_objects, #result_object_name  , #result_object_accuracy
 {
   color: yellow;
+}
+#head{
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  font-weight: bold;
+  font: italic;
+  
 }
